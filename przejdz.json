@@ -1,0 +1,8 @@
+[
+  {
+    "to": { "key": "Facebook", "value": "https://www.facebook.com/mlodzimoga"},
+    "from": [
+      {"id": 0, "key": "Twitter"}
+    ]
+  }
+]
